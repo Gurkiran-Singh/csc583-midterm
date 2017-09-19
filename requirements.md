@@ -5,7 +5,16 @@
 
 ### Requirements Team
 
-![group evaluation](https://user-images.githubusercontent.com/31264160/30352261-e1a32506-97d3-11e7-9262-3b8bfa81de04.png)
+Technology | MEAN |	Java/Spring Boot | Python/Flask |	Python/Django |	MERN | Clojure
+--- | --- | --- | --- | --- | --- | ---|
+Skills | 3.8 | 3.8 | 1.7 | 1.8 | 3.8 | 1.5
+Features | 4.4 | 3.8 | 3.7 | 3.3 | 4.8 | 3.0
+Constraints | 4.5 | 3.3 | 3.3 | 3.0 | 4.5 | 2.5
+Usability | 4.3 | 3.0 | 3.3 | 3.0 | 4.0 | 1.3
+Support/Community | 4.5 | 3.0 | 4.0 | 4.0 | 3.3 | 2.5
+Security | 4.0 | 3.5 | 3.7 | 3.8 | 4.0 | 2.8
+Complexity | 3.6 | 4.0 | 4.3 | 4.8 | 3.4 | 4.0
+Average | 4.2 | 3.5 | 3.4 | 3.4 | 4.0 | 2.5
 
 ### Architecture Team
 
