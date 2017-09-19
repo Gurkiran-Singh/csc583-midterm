@@ -37,7 +37,7 @@ Technology | 1st | 2nd | 3rd
 Angular | 9 | 13 | 5 | 
 VueJS   | 15 | 8 | 6 |
 ReactJS | 5 | 6 | 16 |
-
+12345
 ## Conclusion
 
 After analysis of the various development platforms and tools, we've arrived at the following tools:
