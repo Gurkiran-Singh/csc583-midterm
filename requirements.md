@@ -16,6 +16,8 @@ Security | 4.0 | 3.5 | 3.7 | 3.8 | 4.0 | 2.8
 Complexity | 3.6 | 4.0 | 4.3 | 4.8 | 3.4 | 4.0
 Average | 4.2 | 3.5 | 3.4 | 3.4 | 4.0 | 2.5
 
+Python Flask/Django and Clojure is less skill than MEAN and MERN. Spring boot is less usability and support than MEAN and MERN. MongodDB is used to our back-end application to store data as JSON. Node.js is to implement our application back-end in JS. Express is back-end web application framework running on top of Node.js. Angular/React actually is the similar front-end web app framework, but react is easier to use due to its powerful library.
+
 ### Architecture Team
 
 ![group evaluation](https://user-images.githubusercontent.com/4582375/30355067-b72ffe36-97e5-11e7-9786-5ada6d989cf6.png)
