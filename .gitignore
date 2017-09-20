@@ -1,12 +1,15 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+ubuntu-xenial-16.04-cloudimg-console.log
 
 .vscode/
+.vagrant/
 node_modules/
 api/node_modules/
 client/node_modules/
 server/dist/
+api/dist/
 client/dist/
 
 client/.env
