@@ -66,3 +66,50 @@ We've unanimously decided that `Github` is to tool of choice for configuration m
 
 
 # Functional Requirements
+
+### Login Part
+
+- Username shall be email only.
+
+- Capcha Code shall be applied.
+
+- "Remeber Me" shall remember both username and password for same device of current user.
+
+- Application shall allow user to login with other(Google, Twitter) account.
+
+Success -> login to Toro Board
+
+Fail -> Invalid Username or Password
+
+- Application shall have a footer for privacy, about, contact, home, etc.
+
+### Sign up Part
+
+
+
+- Emaill address shall be "X@X.X".
+
+- Password shall be at least one upcase letter, one lowcase letter, one number, minimum 8 characters and maximum 20.
+
+- Name shall be letters only.
+
+- Date of birth shall be valid date.
+
+- Gender shall be male or female.
+
+- Application shall send confirmation email to register.
+
+- Security Questions shall have default questions for user.
+
+### Forget Password Part
+
+- Application shall ask email to send reset link.
+
+- Application shall ask name and birthday follow by one security question to display user's email if user forget both.
+
+
+
+
+
+
+
