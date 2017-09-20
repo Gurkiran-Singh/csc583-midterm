@@ -77,17 +77,13 @@ We've unanimously decided that `Github` is to tool of choice for configuration m
 
 - Application shall allow user to login with other(Google, Twitter) account.
 
-Success -> login to Toro Board
-
-Fail -> Invalid Username or Password
-
 - Application shall have a footer for privacy, about, contact, home, etc.
 
 ### Sign up Part
 
 
 
-- Emaill address shall be "X@X.X".
+- Emaill address shall be valid.
 
 - Password shall be at least one upcase letter, one lowcase letter, one number, minimum 8 characters and maximum 20.
 
