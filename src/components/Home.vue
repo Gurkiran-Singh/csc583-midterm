@@ -10,7 +10,6 @@
       </textarea>
     </div>
     <button class="btn btn-primary" @click="addPost()">Post!</button>
-    <hr>
   </div>
   <div class="container" v-else>
     <h4>You must login to access Toro Net!</h4>
@@ -27,8 +26,8 @@ export default {
       // email: this.$store.user.email,
       // displayName: this.$store.user.displayName,
       // Are the above data to be included here?
-      // I think not, since the data would be passed around more times 
-      // than is probably necessary... $store is accessible globally 
+      // I think not, since the data would be passed around more times
+      // than is probably necessary... $store is accessible globally
       // throughout the app after all.
       title: '',
       body: ''
@@ -40,7 +39,6 @@ export default {
     }
   },
   mounted() {
-    this.$store.dispatch('getPosts')
     this.$store.dispatch('getUser')
   },
 }
